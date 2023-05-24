@@ -33,4 +33,4 @@ their accounts, create job postings, and view candidates applications.
 4. View in browser at *http://localhost:3000*
 
 ## Contributors(from MNNIT for Avishkar-Webster-2020) 
-* [Mohit Mena]
+* [Mohit Meena]
