@@ -1,4 +1,4 @@
-# Job Portal
+# Job Portal 
 
 The online job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts,
 upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provides the ability for companies to create
@@ -21,12 +21,12 @@ their accounts, create job postings, and view candidates applications.
  ## Technologies/Modules    
 * NodeJS     	: Server side JavaScript execution environment.  
 * Express    	: Lightweight framework used to build web applications in Node  
-* MongoDB 	: Schemaless NoSQL database system    
+* MongoDB 	: Schemaless NoSQL database system  
 * Bootstrap 	: Popular HTML, CSS, and JS framework for developing responsive websites   
 * Mongoose		: MongoDB object modelling for Node.js  
 * Passport   	: Authentication middleware for Node.js 
 
-## Installation
+## Installation 
 1. Download the repository
 2. Install npm modules: *npm install*
 3. Start up the server: *node index.js*
