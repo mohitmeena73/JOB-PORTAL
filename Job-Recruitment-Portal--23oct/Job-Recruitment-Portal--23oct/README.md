@@ -31,6 +31,3 @@ their accounts, create job postings, and view candidates applications.
 2. Install npm modules: *npm install*
 3. Start up the server: *node index.js*
 4. View in browser at *http://localhost:3000*
-
-## Contributors(from MNNIT for Avishkar-Webster-2020) 
-* [Mohit Meena]
