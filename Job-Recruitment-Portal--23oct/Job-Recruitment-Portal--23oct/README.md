@@ -33,5 +33,4 @@ their accounts, create job postings, and view candidates applications.
 4. View in browser at *http://localhost:3000*
 
 ## Contributors(from MNNIT for Avishkar-Webster-2020) 
-* [Nilotpal Das](https://www.linkedin.com/in/nilotpal-das-842b071a1/)
-* [Nitin Gangwar](https://www.linkedin.com/in/nitin-gangwar-4253b71b7/)
+* [Mohit Mena]
